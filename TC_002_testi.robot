@@ -6,6 +6,8 @@ Resource  ../Recources/UserKeywords.robot
 ${var1}  https://www.thetestingworld.com
 
 *** Test Cases ***
+
+XXXX
 TC_001 Login Logout Functionally
     Open Browser  ${var1}  Chrome
     maximize browser window
